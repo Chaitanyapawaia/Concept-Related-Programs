@@ -1,0 +1,5 @@
+a= int(input("Enter the dividend:"))
+b= int(input("Enter the divisor:"))
+c= (a//b)
+d=(a%b)
+print("The quotient is",c,"and the remainder is",d)
